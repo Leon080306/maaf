@@ -11,7 +11,7 @@ body {
     background-color: rgba(0, 0, 0, 0.9);
     border: 2px solid #4a5052;
     border-radius: 30px;
-    width: 550px;
+    width: 50%;
     height: 330px;
     position: absolute;
     top: 45%;
@@ -25,8 +25,8 @@ p {
     padding: 0;
     margin: 0px;
     margin-top: 4px;
-    margin-left: 65px;
-    font-size: 22px;
+    margin-left: 30px;
+    font-size: 20px;
     font-weight: lighter;
 }
 #button {
